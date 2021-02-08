@@ -9,7 +9,7 @@ ou certains paramètres doivent être non négatifs (contrainte d'inégalité).
 
 Parfois, les contraintes peuvent être incorporées dans la fonction à minimiser, par exemple, 
 
-la contrainte de non-négativité p> 0 peut être supprimée en substituant p = eq et en optimisant pour q. 
+la contrainte de non-négativité p > 0 peut être supprimée en substituant p = eq et en optimisant pour q. 
 
 En utilisant de telles solutions de contournement, il peut être possible de convertir un problème d'optimisation 
 
@@ -19,11 +19,13 @@ Alternativement, nous pouvons utiliser des méthodes d'optimisation qui permette
 
 la spécification des contraintes directement dans l'énoncé du problème, comme indiqué dans cette section. 
 
-En interne, les pénalités de violation de contraintes, les barrières et les multipiliers de Lagrange 
+En interne, les pénalités de violation de contraintes, les barrières et les multiplieurs de Lagrange 
 
 font partie des méthodes utilisées pour gérer ces contraintes. Nous utilisons l'exemple fourni dans le didacticiel 
 
 Scipy pour illustrer comment définir des contraintes.
+
+Voici un problème : 
 
 f (x) = - (2xy + 2x − x2−2y2)
 
@@ -37,7 +39,7 @@ Et aux limites
 
 """
 
-# La lib qui va optimiser grâce à son module optimize
+# On charge La lib qui va optimiser grâce à son module optimize
 import scipy.optimize as opt
 
 # Pour Tracer les courbes
@@ -48,7 +50,7 @@ import numpy as np
 def f(x):
     return -(2*x[0]*x[1] + 2*x[0] - x[0]**2 - 2*x[1]**2)
 
-
+# On dessine la fonction 
 x = np.linspace(0, 3, 100)
 y = np.linspace(0, 3, 100)
 X, Y = np.meshgrid(x, y)
