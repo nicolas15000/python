@@ -7,7 +7,7 @@ Sous les contraintes:       y1 + y2 + y3 >= 1000
 
 avec                        y1 >= 0, y2 >= 0
 
-Source fiable : https://stackoverflow.com/questions/49408242/scipy-optimize-linprog-difficulty-understanding-the-parameters
+Source fiable : https://stackoverflow.com/questions/45873783/python-linprog-minimization-simplex-method
 """
 
 
@@ -16,7 +16,9 @@ import numpy as np
 from scipy.optimize import linprog
 
 # On prends le programme linéaire et on le transforme en matrice , 
-# et vu que linprog a besoin de contraintes du type f(x) <= const, on doit tout inverser en  -f(x) <= - const : 
+# et vu que linprog a besoin de contraintes du type f(x) <= const et que nos conraintes sont >=, 
+# on doit tout inverser nos contraintes au format :  -f(x) <= - const : 
+
 A = np.array([[-1, -1, -1], [-1,2, 0], [0, 0, -1], [-1, 0, 0], [0, -1, 0]])
 b = np.array([-1000, 0, -340, 0, 0])
 
