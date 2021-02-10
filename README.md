@@ -41,6 +41,7 @@ Je me limite aux livres suivants pour l'instant en ce moment :
 - " L'électronique de Poche pour les nuls"
 - " Talend for Big Data" Packt
 - " La comptabilité pour les nuls"
+- Livres de Maths de révision de lycées ( 2nd, 1ère s et stg, Ts, TEco et un de collège 3 ème).
 
 
 --> Professeurs, Phd doctorants, et liens en Français :
