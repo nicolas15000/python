@@ -42,9 +42,9 @@ https://www.kaggle.com/notebooks<br><br>
 * pyschedule https://github.com/timnon/pyschedule<br>
 * Survival regression https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html#the-dataset-for-regression <br><br>
 
-## Liens et références des livres utilisés
+## Liens et références des livres utilisés pour mes études
 
-
+Je me limite aux livres suivants pour l'instant en ce moment :
 - "Mathématiques L1 L2 - 30 fiches" Dunod
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
@@ -58,7 +58,7 @@ https://www.kaggle.com/notebooks<br><br>
 - "Data science for dummies" : La data science pour les nuls, en anglais.
 - " Big Data et Machine Learning, Manuel du Data scientist " Dunod
 - " L'électronique de Poche pour les nuls"
-- " Talend for big Data" Packt
+- " Talend for Big Data" Packt
 - " La comptabilité pour les nuls"
 
 
