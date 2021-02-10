@@ -51,7 +51,8 @@ https://www.kaggle.com/notebooks<br><br>
 - "Premiers pas en statistique" de Springer : toute les bases incontournables : https://www.springer.com/gp/book/9782287302787
 - "Exercices problèmes physique MPSI PCSI PTSI " de Hachette du supérieur
 - "Mastering Python for Finance" by James Ma Weiming
-- "Mini manuel de mathématiques financières" - Dunod - 
+- "Mini manuel de mathématiques financières" - Dunod
+- "Data science for dummies" : la data science pour les nuls, en anglais.
 
 --> Professeurs, Phd doctorants, et liens en Français :
 
