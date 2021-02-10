@@ -95,21 +95,21 @@ https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Metho
 
 ## Moocs :
 Coursera <br>
-Programmer en Python pour la Data Science de A à Z :https://www.udemy.com/course/data-science-avec-python/<br>
-Les Data Sciences de A à Z  : https://www.udemy.com/course/les-data-sciences-de-a-a-z/<br>
-Spécialisation Science des données appliquée avec Python : https://fr.coursera.org/specializations/data-science-python<br>
-Modélisation financière : https://www.coursera.org/specializations/finance-quantitative-modeling-analysts#courses<br><br>
-real-data-science-problems : https://www.udemy.com/course/real-data-science-problems-with-python/<br>
-Finances : https://www.my-mooc.com/fr/mooc/python-and-statistics-for-financial-analysis/<br>
+- Programmer en Python pour la Data Science de A à Z :https://www.udemy.com/course/data-science-avec-python/<br>
+- Les Data Sciences de A à Z  : https://www.udemy.com/course/les-data-sciences-de-a-a-z/<br>
+- Spécialisation Science des données appliquée avec Python : https://fr.coursera.org/specializations/data-science-python<br>
+- Modélisation financière : https://www.coursera.org/specializations/finance-quantitative-modeling-analysts#courses<br><br>
+- real-data-science-problems : https://www.udemy.com/course/real-data-science-problems-with-python/<br>
+- Finances : https://www.my-mooc.com/fr/mooc/python-and-statistics-for-financial-analysis/<br>
 
 Tous les cours de programmation linéaire : <br>
-https://www.udemy.com/courses/search/?q=%22LINEAR%20PROGRAMMING%22&src=sac&kw=linear%20programmaing<br><br>
+- https://www.udemy.com/courses/search/?q=%22LINEAR%20PROGRAMMING%22&src=sac&kw=linear%20programmaing<br><br>
 
 Moocs de Maths:<br>
-https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04008+session06/about<br><br>
+- https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04008+session06/about<br><br>
 
 Moocs de sciences Physique : <br>
-https://www.my-mooc.com/fr/categorie/physique<br><br>
+- https://www.my-mooc.com/fr/categorie/physique<br><br>
 
 
 ##  Collabs : 
@@ -122,9 +122,9 @@ Just Some ordered python regressions, various maths and linear solvers studies s
 
 ## Books
 Data science for dummies : <br>
-https://www.amazon.fr/Python-Data-Science-Dummies-Mueller/dp/1119547628<br>
+- https://www.amazon.fr/Python-Data-Science-Dummies-Mueller/dp/1119547628<br>
 Python Data Science Handbook :<br>
-https://jakevdp.github.io/PythonDataScienceHandbook/<br>
+- https://jakevdp.github.io/PythonDataScienceHandbook/<br>
 
 ## Info 
 Files with the C letter at the start of their names have confirmed status. <br>
