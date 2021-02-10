@@ -44,12 +44,12 @@ https://www.kaggle.com/notebooks<br><br>
 
 ## Liens et références des livres utilisés
 
-- Livres incontournables : 
-"Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod, 
-"Logistique" de Dunod , Yves Pimor , 
-"Gestion de projet pour les nuls"
-"Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
-https://www.springer.com/gp/book/9782287302787
+- "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod, 
+- "Logistique" de Dunod , Yves Pimor , 
+- "Gestion de projet pour les nuls"
+- "Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
+- https://www.springer.com/gp/book/9782287302787
+- Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur
 
 - Professeurs, Phd doctorants, et liens en Français :
 Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/td_2a.html#machine-learning-les-briques-de-bases<br>
