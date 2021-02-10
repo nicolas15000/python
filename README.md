@@ -21,26 +21,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
 
-## Datasets et notebooks en Data Science à télécharger sur Kaggle (Anglais)!
-https://www.kaggle.com/notebooks<br><br>
 
-## Infos : 
-<b>Les scripts possédant la lettre C au début de leur noms ont un statut confirmé.</b><br>
-<b>Les scripts possédant l'attribut BASE au début de leurs noms sont les plus simples et fiables.</b><br>
-<b>Les scripts possédant la lettre KO au début de leurs noms ont un statut à vérifier ou en défaut.</b>
-<br>
-(Note : Confirmé, veut dire résultat bon, confirmé par comparaison, cependant, la méthode/stratégie pour obtenir le resultat n'est pas forcément encore la meilleure, les fonctions peuvent parfois être très laides.)</br>
-<br>
-
-## Librairies utilisées
-* numpy<br>
-* matplotlib<br>
-* pandas<br>
-* scipy<br>
-* sklearn<br>
-* pulp (Solvers)<br>
-* pyschedule https://github.com/timnon/pyschedule<br>
-* Survival regression https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html#the-dataset-for-regression <br><br>
 
 ## Liens et références des livres utilisés pour mes études
 
@@ -66,6 +47,27 @@ Je me limite aux livres suivants pour l'instant en ce moment :
 
 - Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/td_2a.html#machine-learning-les-briques-de-bases<br>
 - Sacha Schutz : https://dridk.me/ et  https://dridk.me/equation-differentielle.html
+
+## Datasets et notebooks en Data Science à télécharger sur Kaggle (Anglais)!
+https://www.kaggle.com/notebooks<br><br>
+
+## Infos : 
+<b>Les scripts possédant la lettre C au début de leur noms ont un statut confirmé.</b><br>
+<b>Les scripts possédant l'attribut BASE au début de leurs noms sont les plus simples et fiables.</b><br>
+<b>Les scripts possédant la lettre KO au début de leurs noms ont un statut à vérifier ou en défaut.</b>
+<br>
+(Note : Confirmé, veut dire résultat bon, confirmé par comparaison, cependant, la méthode/stratégie pour obtenir le resultat n'est pas forcément encore la meilleure, les fonctions peuvent parfois être très laides.)</br>
+<br>
+
+## Librairies utilisées
+* numpy<br>
+* matplotlib<br>
+* pandas<br>
+* scipy<br>
+* sklearn<br>
+* pulp (Solvers)<br>
+* pyschedule https://github.com/timnon/pyschedule<br>
+* Survival regression https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html#the-dataset-for-regression <br><br>
 
 ## Les Chaines Youtube Françaises:
 
