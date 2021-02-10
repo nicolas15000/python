@@ -1,19 +1,5 @@
 # PYTHON DATA SCIENCE SCRIPTS EN FRANCAIS
 <b>CAS D'UTILISATIONS .</b>
-<br>
-![Screenshot](iconb.jpg)<br>
-## English
-Just Some ordered python regressions, various maths and linear solvers studies scripts...
-
-## Books
-Data science for dummies : <br>
-https://www.amazon.fr/Python-Data-Science-Dummies-Mueller/dp/1119547628<br>
-Python Data Science Handbook :<br>
-https://jakevdp.github.io/PythonDataScienceHandbook/<br>
-
-## Info 
-Files with the C letter at the start of their names have confirmed status. <br>
-Files with the KO letters at the beginning of their names have a result to check or fail.
 
 
 ##  Français/French
@@ -22,7 +8,7 @@ Files with the KO letters at the beginning of their names have a result to check
 Je stocke ici divers scripts de data science et de mathématiques descriptives ou prédictives en Python, en langue Française<br>
 
 ## Dernières news du dépot : 
-
+- 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier tous les jours et retranscrit des formules en python dès que possible, triées par chapitres. Cette année c'est Mastering Python for Finance by James Ma Weiming (z-lib.org) (en anglais, super bien écrit), et Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur ( Qui récapitule bien)  .
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
 
@@ -108,3 +94,19 @@ https://www.my-mooc.com/fr/categorie/physique<br><br>
 
 ##  Collabs : 
 Vous désirez collaborer avec moi (Surtout sur les solveurs linéaires ( Monde agricole, productions alimentaires, production et j'espère... finance)) ... Ok ! envoyez moi un message<br>
+
+<br>
+![Screenshot](iconb.jpg)<br>
+## English
+Just Some ordered python regressions, various maths and linear solvers studies scripts...
+
+## Books
+Data science for dummies : <br>
+https://www.amazon.fr/Python-Data-Science-Dummies-Mueller/dp/1119547628<br>
+Python Data Science Handbook :<br>
+https://jakevdp.github.io/PythonDataScienceHandbook/<br>
+
+## Info 
+Files with the C letter at the start of their names have confirmed status. <br>
+Files with the KO letters at the beginning of their names have a result to check or fail.
+
