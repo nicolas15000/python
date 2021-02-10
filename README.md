@@ -29,6 +29,7 @@ Je me limite aux livres suivants pour l'instant en ce moment :
 - "Mathématiques L1 L2 - 30 fiches" Dunod
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
+- "Outils mathématiques pour l'informaticien, mathématiques discretes" De Boaeck
 - "Logistique" de Dunod , Yves Pimor 
 - "Gestion de projet pour les nuls"
 - "Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
@@ -41,6 +42,7 @@ Je me limite aux livres suivants pour l'instant en ce moment :
 - " L'électronique de Poche pour les nuls"
 - " Talend for Big Data" Packt
 - " La comptabilité pour les nuls"
+- " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
 - Livres de Maths de révision de lycées ( 2nd, 1ère s et stg, Ts, TEco et un de collège 3 ème).
 
 
