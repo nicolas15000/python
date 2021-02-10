@@ -8,7 +8,14 @@
 Je stocke ici divers scripts de data science et de mathématiques descriptives ou prédictives en Python, en langue Française<br>
 
 ## Dernières news du dépot : 
-- 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier tous les jours et retranscrit des formules en python dès que possible, triées par chapitres. Cette année c'est Mastering Python for Finance by James Ma Weiming (z-lib.org) (en anglais, super bien écrit, avec les scripts de la frontière effisciente, du Python Pyulp, etc ..), et Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur ( Qui récapitule bien par chapitres)  . Je ferais aussi peut être un livre de Lycée/Collège.
+- 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier tous les jours et retranscrit des formules en python dès que possible, triées par chapitres. Cette année c'est :
+
+- Mastering Python for Finance by James Ma Weiming (z-lib.org) (en anglais, super bien écrit, avec les scripts de la frontière effisciente, du Python Pyulp, etc ..)
+
+- Dunod - Mini manuel de mathématiques financières ( Je refais toutes les formules de maths en python )
+
+- Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur ( Qui récapitule bien par chapitres)   . 
+
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
 
