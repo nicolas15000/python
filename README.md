@@ -18,7 +18,6 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 -- Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances en gestion de Portfolios(Portefeuille), Les probabilités en chaines de Markov et les solveurs linéaires en programmation linéaire ( Pour mon app : http://solvgraph.com)
 
-- Autres livres  : Mathématiques pour l'informatique ( Version bts sio plus courte ) de Dunod, "Logistique" de Dunod , Yves Pimor 
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
 
@@ -43,11 +42,18 @@ https://www.kaggle.com/notebooks<br><br>
 * pyschedule https://github.com/timnon/pyschedule<br>
 * Survival regression https://lifelines.readthedocs.io/en/latest/Survival%20Regression.html#the-dataset-for-regression <br><br>
 
-## Liens et références
+## Liens et références des livres utilisés
 
-https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
+- Livres incontournables : 
+"Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod, 
+"Logistique" de Dunod , Yves Pimor , 
+"Gestion de projet pour les nuls"
+"Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
 https://www.springer.com/gp/book/9782287302787
+
+- Professeurs, Phd doctorants, et liens en Français :
 Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/td_2a.html#machine-learning-les-briques-de-bases<br>
+Sacha Schutz : https://dridk.me/ et  https://dridk.me/equation-differentielle.html
 
 ## Les Chaines Youtube Françaises:
 
@@ -55,6 +61,7 @@ Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching
 Machine Learnia https://www.youtube.com/channel/UCmpptkXu8iIFe6kfDK5o7VQ<br>
 Nicolas Br https://www.youtube.com/channel/UCzsU0h6kxkSSCqpXTRUHubg<br>
 Science4All : https://www.youtube.com/watch?v=Jf40Xd52NyQ<br><br>
+
   
 <b>Maths :</b><br>
 Clipedia : https://www.youtube.com/channel/UCNwWU1hqK3q-DclufllWCfg<br>
