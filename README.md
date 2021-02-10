@@ -44,6 +44,9 @@ https://www.kaggle.com/notebooks<br><br>
 
 ## Liens et références des livres utilisés
 
+
+- "Mathématiques L1 L2 - 30 fiches" Dunod
+- "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
 - "Logistique" de Dunod , Yves Pimor 
 - "Gestion de projet pour les nuls"
@@ -52,8 +55,12 @@ https://www.kaggle.com/notebooks<br><br>
 - "Exercices problèmes physique MPSI PCSI PTSI " de Hachette du supérieur
 - "Mastering Python for Finance" by James Ma Weiming
 - "Mini manuel de mathématiques financières" - Dunod
-- "Data science for dummies" : la data science pour les nuls, en anglais.
-- http://www.jybaudot.fr/Bourse/theoptf.html : Le site de Jy Baudot
+- "Data science for dummies" : La data science pour les nuls, en anglais.
+- " Big Data et Machine Learning, Manuel du Data scientist " Dunod
+- " L'électronique de Poche pour les nuls"
+- " Talend for big Data" Packt
+- " La comptabilité pour les nuls"
+
 
 --> Professeurs, Phd doctorants, et liens en Français :
 
@@ -85,6 +92,8 @@ https://github.com/Columbia-Intro-Data-Science/APMAE4990-/tree/master/notebooks<
 
 Un autre dépot sympa :<br>
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers<br>
+
+- http://www.jybaudot.fr/Bourse/theoptf.html : Le site de Jy Baudot
 
 
 ## Ecoles :
