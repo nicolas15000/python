@@ -25,7 +25,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 ## Liens et références des livres utilisés pour mes études
 
-J'ai choisi ces livres pour les 2 années à venir :
+J'ai choisi ces livres pour les 3 années à venir :
 - "Mathématiques L1 L2 - 30 fiches" Dunod
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
@@ -43,6 +43,7 @@ J'ai choisi ces livres pour les 2 années à venir :
 - " Talend for Big Data" Packt
 - " La comptabilité pour les nuls"
 - " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
+- " Apprendre le ML en 2 semaines" de la chaine youtube Machine Learnia
 - Livres de Maths de révision de lycées ( 2nd, 1ère s et stg, Ts, TEco et un de collège 3 ème).
 
 
