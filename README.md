@@ -18,6 +18,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 -- Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances en gestion de Portfolios(Portefeuille), Les probabilités en chaines de Markov et les solveurs linéaires en programmation linéaire ( Pour mon app : http://solvgraph.com)
 
+- Autres livres  : Mathématiques pour l'informatique ( Version bts sio plus courte ) de Dunod, "Logistique" de Dunod , Yves Pimor 
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
 
