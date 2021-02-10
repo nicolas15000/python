@@ -25,7 +25,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 ## Liens et références des livres utilisés pour mes études
 
-Je me limite aux livres suivants pour l'instant en ce moment :
+J'ai choisi ces livres pour les 2 années à venir :
 - "Mathématiques L1 L2 - 30 fiches" Dunod
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
