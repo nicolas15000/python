@@ -8,6 +8,26 @@ Sous les contraintes:       y1 + y2 + y3 >= 1000
 avec                        y1 >= 0, y2 >= 0
 
 Source fiable : https://stackoverflow.com/questions/45873783/python-linprog-minimization-simplex-method
+
+
+Autre source : https://stackoverflow.com/questions/61036775/solve-linear-programming-problem-of-otimization-with-scipy
+
+Le linprog dans scipy est parfois incohérent parce que:
+
+    Cela résout toujours un problème de minimisation, donc si vous voulez maximiser une fonction objectif, vous devez faire une solution de contournement comme dans cette solution pour la transformer en un problème de minimisation
+
+    les équations qui ont> = doivent être multipliées par -1 pour devenir <=
+
+    En créant ensemble des contraintes telles que A_ub A_eq ensemble, ce sont des matrices séparées, donc créez-les ensuite individuellement
+
+Jetez un œil dans la documentation, ils ont également un bel exemple
+
+https://stackoverflow.com/questions/42303470/scipy-optimize-inequality-constraint-which-side-of-the-inequality-is-considere
+
+optimize.linprog always minimizes your target function. 
+If you want to maximize instead, 
+you can use that max(f(x)) == -min(-f(x))
+
 """
 
 
