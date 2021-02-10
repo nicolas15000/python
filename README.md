@@ -48,7 +48,7 @@ https://www.kaggle.com/notebooks<br><br>
 - "Logistique" de Dunod , Yves Pimor 
 - "Gestion de projet pour les nuls"
 - "Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
-- "Premiers pas en statistique" de Springer : toute les bases incontournables : https://www.springer.com/gp/book/9782287302787
+- "Premiers pas en statistique" de Springer :Toutes les bases incontournables en stats : https://www.springer.com/gp/book/9782287302787
 - "Exercices problèmes physique MPSI PCSI PTSI " de Hachette du supérieur
 - "Mastering Python for Finance" by James Ma Weiming
 - "Mini manuel de mathématiques financières" - Dunod
