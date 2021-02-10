@@ -51,9 +51,10 @@ https://www.kaggle.com/notebooks<br><br>
 - https://www.springer.com/gp/book/9782287302787
 - Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur
 
-- Professeurs, Phd doctorants, et liens en Français :
-Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/td_2a.html#machine-learning-les-briques-de-bases<br>
-Sacha Schutz : https://dridk.me/ et  https://dridk.me/equation-differentielle.html
+--> Professeurs, Phd doctorants, et liens en Français :
+
+- Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/td_2a.html#machine-learning-les-briques-de-bases<br>
+- Sacha Schutz : https://dridk.me/ et  https://dridk.me/equation-differentielle.html
 
 ## Les Chaines Youtube Françaises:
 
