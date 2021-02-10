@@ -16,7 +16,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 -- J'essaye aussi Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur ( Qui récapitule bien par chapitres le programme MPSI) . Je fais aussi du niveau Collège et Lycée ...  .
 
--- Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances, Les chaines de Markov et les solveurs linéaires ( Pour mon app : http://solvgraph.com)
+-- Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances en gestion de Portfolios(Portefeuille), Les chaines de Markov et les solveurs linéaires ( Pour mon app : http://solvgraph.com)
 
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
