@@ -53,6 +53,7 @@ https://www.kaggle.com/notebooks<br><br>
 - "Mastering Python for Finance" by James Ma Weiming
 - "Mini manuel de mathématiques financières" - Dunod
 - "Data science for dummies" : la data science pour les nuls, en anglais.
+- http://www.jybaudot.fr/Bourse/theoptf.html : Le site de Jy Baudot
 
 --> Professeurs, Phd doctorants, et liens en Français :
 
