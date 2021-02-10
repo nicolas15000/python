@@ -14,7 +14,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 - Dunod - Mini manuel de mathématiques financières ( Je refais toutes les formules de Maths en python dans mon chapitre 5)
 
-- J'essaye aussi Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur ( Qui récapitule bien par chapitres le programme MPSI)   . 
+- J'essaye aussi Exercices_problèmes_physique_MPSI_PCSI_PTSI.pdf de Hachette du supérieur ( Qui récapitule bien par chapitres le programme MPSI) . Je fais aussi du niveau Collège et Lycée ...  . 
 
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
