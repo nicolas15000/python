@@ -46,7 +46,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 - " Apprendre le ML en 2 semaines" de la chaine youtube Machine Learnia
 - Livres de Maths de révision de lycées ( 2nd, 1ère s et stg, Ts, TEco et un de collège 3 ème).
 - "Tout en un fiches Maths Physique chimie Visa pour la prépa "Dunod 
-- "Mathématiques apploquées à la gestion" Pearson education ( + difficile)
+- "Mathématiques appliquées à la gestion" Pearson education ( + difficile)
 
 
 --> Professeurs, Phd doctorants, et liens en Français :
