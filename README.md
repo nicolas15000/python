@@ -25,7 +25,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 ## Références de mes livres
 
-Je limite mes livres à ça pour une longue période:
+
 - "Mathématiques L1 L2 - 30 fiches" Dunod
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
