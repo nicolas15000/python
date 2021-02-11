@@ -23,7 +23,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 
 
-## Références de mes livres
+## Références de mes livrespour les 3 ans à venir
 
 
 - "Mathématiques L1 L2 - 30 fiches" Dunod
