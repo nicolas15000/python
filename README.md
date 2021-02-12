@@ -30,6 +30,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
 - "Outils mathématiques pour l'informaticien, mathématiques discretes" De Boaeck
+- "Maxi fiches Physique , 2 ème édition - Mécanique , Thermodynamique, Electricité, ondes , optique pour L1 et L 2 " Dunod
 - "Logistique" de Dunod , Yves Pimor 
 - "Gestion de projet pour les nuls"
 - "Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
@@ -47,7 +48,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 - Livres de Maths de révision de lycées ( 2nd, 1ère s et stg, Ts, TEco et un de collège 3 ème).
 - "Tout en un fiches Maths Physique chimie Visa pour la prépa "Dunod 
 - "Mathématiques appliquées à la gestion" Pearson education ( + difficile)
-- "Sciences industrielles pour l'ingénieur tout en 1 Mp " Dunod
+
 
 
 --> Professeurs, Phd doctorants, et liens en Français :
