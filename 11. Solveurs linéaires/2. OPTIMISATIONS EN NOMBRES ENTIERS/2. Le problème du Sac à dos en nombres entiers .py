@@ -25,10 +25,13 @@ Sous les contraintes ( Subject to) :
     2a + 4b + 7c + 10d <= 15 (Contrainte d'espace dans le sac)
 
 
-Author: 
+Auteur: 
 Shanglun Wang
 https://www.toptal.com/algorithms/mixed-integer-programming
 https://www.toptal.com/resume/shanglun-sean-wang
+
+Liens : 
+http://web.mit.edu/15.053/www/AMP-Chapter-09.pdf
 
 """
 
