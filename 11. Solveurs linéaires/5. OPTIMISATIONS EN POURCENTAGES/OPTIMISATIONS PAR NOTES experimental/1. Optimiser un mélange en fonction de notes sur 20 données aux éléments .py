@@ -1,8 +1,10 @@
 # Minimiser le poids d'un mélange sous contrainte de resistance
 # minimale en fonction de notes x/20 qu'on aurait attribué à chaque élément du mélange.
-# La note minimale de la moyenne de la resistance doit être de 12/20
+# La note minimale de la moyenne de la resistance doit être de 10/20
+
 # EN COURS DE RESOLUTION - NON CONFIRME - A CONFIRMER OU MODIFIER PAR SPECIALISTE MATHEMATICIEN
 # PROBABLEMENT FAUX  
+
 # Expérimental by Nicolas Estel HULEUX
 """             resistance  poids    
 fer :           18/20       16/20        
