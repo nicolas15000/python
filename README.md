@@ -92,6 +92,9 @@ J'ai compris Maths : https://www.youtube.com/channel/UCo-O74A4qVz6nq5cfCIee6w<br
 Yvan Monka : https://www.youtube.com/user/YMONKA<br>
 Saïd Chermak : https://www.youtube.com/channel/UCppNXkk1sgDguxe8fQK9tng<br>
 
+**Excellente chaine d'optimisation en Anglais ( explications très simples et structurées) :**
+https://www.youtube.com/channel/UC1S4Jeodbr5EbsCOIgBWJPQ
+
 <b>Liens et références (Suite)</b><br>
 A regarder également le super dépot Columbia-Intro-Data-Science avec tout le travail d'étudiants de Columbia dans ce domaine avec Python.<br>
 
