@@ -9,6 +9,9 @@ POurquoi est-ce un problème en nombres entiers ?
 Par ce que on ne peut pas séparer un objet en 2, 
 on ne peut pas avoir 1,5 objet dans son sac , par exemple .
 
+Et si je ne veux mettre dans mon sac qu'un seul objet de chaque ? 
+Alors on doit spécifier que les variables de décision sont binaires !
+
 Caractéristiques de mon problème : 
 
 Objet                       Valeur ( unité de 10 Euros)     Taille( En "unité générique" .)
@@ -40,7 +43,10 @@ valeur = {"caméra": 5, "figurine": 7, "bouteille": 2,"trompette":10}
 
 taille = {"caméra": 12, "figurine": 4, "bouteille": 7,"trompette":10}
 
-# Déclarer les variables de décision
+# Déclarer les variables de décision : On peut mettre 10 au maximum de chaque produit
+#  x = pulp.LpVariable.dicts("produits ", produits , lowBound=0, upBound=10, cat='Integer')
+
+# Par contre, si on ne veut prendre qu'un seul objet de chaque, alors, on doit établir le dictionnaire de cette façon : 
 x = pulp.LpVariable.dicts("produits ", produits , lowBound=0, upBound=1, cat='Binary')
 
 # Ajouter la fonction objectif
@@ -70,18 +76,19 @@ print("La valeur maximale de mon sac au total , sous contrainte de taille des ob
 """ 
 Result - Optimal solution found
 
-Objective value:                17.00000000
+Objective value:                21.00000000
 Enumerated nodes:               0
 Total iterations:               0
-Time (CPU seconds):             0.02
-Time (Wallclock seconds):       0.02
+Time (CPU seconds):             0.04
+Time (Wallclock seconds):       0.04
 
 Option for printingOptions changed from normal to all
-Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+Total time (CPU seconds):       0.05   (Wallclock seconds):       0.05
 
 Status: Optimal
 produits__bouteille = 0.0
 produits__caméra = 0.0
-produits__figurine = 1.0
-produits__trompette = 1.0
-The Max Value =  17.0 """
+produits__figurine = 3.0
+produits__trompette = 0.0
+La valeur maximale de mon sac au total , sous contrainte de taille des objets =  21.0
+ """
