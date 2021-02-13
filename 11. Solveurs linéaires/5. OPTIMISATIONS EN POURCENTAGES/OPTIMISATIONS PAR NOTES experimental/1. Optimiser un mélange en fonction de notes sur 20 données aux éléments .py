@@ -1,7 +1,8 @@
 # Minimiser le poids d'un mélange sous contrainte de resistance
 # minimale en fonction de notes x/20 qu'on aurait attribué à chaque élément du mélange.
 # La note minimale de la moyenne de la resistance doit être de 12/20
-# EN COURS DE RESOLUTION - NON CONFIRME 
+# EN COURS DE RESOLUTION - NON CONFIRME - A CONFIRMER OU MODIFIER PAR SPECIALISTE MATHEMATICIEN
+# PROBABLEMENT FAUX  
 # Expérimental by Nicolas Estel HULEUX
 """             resistance  poids    
 fer :           18/20       16/20        
@@ -34,7 +35,7 @@ prob += lpSum([(resistance[i] * x[i]) / 20 for i in produits]) >= 10, "resistanc
 # NOTE sur les contraintes : Normalement, on doit minimiser la moyenne de toutes les resistances pour imposer une note moyenne > ) 10/20 mais 
 # Je ne connais pas encore la syntaxe pour faire pareille chose . Le code on on ajoute / 3 ne fonctionne pas, je continue à chercher.
 
-# Cette Fonction est nécessaire lorsque les contraintes sont exprimées en %
+# Limitation globale
 prob += lpSum([1 * x[f] for f in produits]) == 20, "noteMax"
 
 # On écrit aussi le problem dans un fichier
