@@ -94,7 +94,7 @@ Saïd Chermak : https://www.youtube.com/channel/UCppNXkk1sgDguxe8fQK9tng<br>
 
 **Excellente chaine d'optimisation en Anglais ( explications très simples et structurées) :**<br>
 https://www.youtube.com/channel/UC1S4Jeodbr5EbsCOIgBWJPQ
-https://www.youtube.com/watch?v=-3my1TkyFiM
+Example : Les contraintes binaires en optimisation : https://www.youtube.com/watch?v=B3biWsBLeCw
 
 <b>Liens et références (Suite)</b><br>
 A regarder également le super dépot Columbia-Intro-Data-Science avec tout le travail d'étudiants de Columbia dans ce domaine avec Python.<br>
