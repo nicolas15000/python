@@ -93,7 +93,7 @@ Yvan Monka : https://www.youtube.com/user/YMONKA<br>
 Saïd Chermak : https://www.youtube.com/channel/UCppNXkk1sgDguxe8fQK9tng<br>
 
 **Excellente chaine d'optimisation en Anglais ( explications très simples et structurées) :**<br>
-https://www.youtube.com/channel/UC1S4Jeodbr5EbsCOIgBWJPQ
+https://www.youtube.com/channel/UC1S4Jeodbr5EbsCOIgBWJPQ<br>
 Example : Les contraintes binaires en optimisation : https://www.youtube.com/watch?v=B3biWsBLeCw
 
 <b>Liens et références (Suite)</b><br>
