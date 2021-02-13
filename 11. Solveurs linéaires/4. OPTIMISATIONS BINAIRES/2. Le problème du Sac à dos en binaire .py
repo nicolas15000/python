@@ -73,22 +73,72 @@ for v in prob.variables ():
 print("La valeur maximale de mon sac au total , sous contrainte de taille des objets = ",pulp.value(prob.objective))
 
 
-""" 
-Result - Optimal solution found
+""" Result - Optimal solution found
 
-Objective value:                21.00000000
+Objective value:                17.00000000
 Enumerated nodes:               0
 Total iterations:               0
-Time (CPU seconds):             0.04
-Time (Wallclock seconds):       0.04
+Time (CPU seconds):             0.02
+Time (Wallclock seconds):       0.02
 
 Option for printingOptions changed from normal to all
-Total time (CPU seconds):       0.05   (Wallclock seconds):       0.05
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
 
 Status: Optimal
 produits__bouteille = 0.0
 produits__caméra = 0.0
-produits__figurine = 3.0
-produits__trompette = 0.0
-La valeur maximale de mon sac au total , sous contrainte de taille des objets =  21.0
- """
+produits__figurine = 1.0
+produits__trompette = 1.0
+La valeur maximale de mon sac au total , sous contrainte de taille des objets =  17.0
+Welcome to the CBC MILP Solver
+Version: 2.9.0
+Build Date: Feb 12 2015"""
+
+
+
+# Le même programme écrit autrement par l'auteur : 
+
+import pulp as pl
+
+# declare some variables
+# each variable is a binary variable that is either 0 or 1
+# 1 means the item will go into the knapsack
+a = pl.LpVariable("a", 0, 1, pl.LpInteger)
+b = pl.LpVariable("b", 0, 1, pl.LpInteger)
+c = pl.LpVariable("c", 0, 1, pl.LpInteger)
+d = pl.LpVariable("d", 0, 1, pl.LpInteger)
+
+# define the problem
+prob = pl.LpProblem("knapsack", pl.LpMaximize)
+
+# objective function - maximize value of objects in knapsack
+prob += 5 * a + 7 * b + 2 * c + 10 * d
+
+# constraint - weight of objects cannot exceed 15
+prob += 2 * a + 4 * b + 7 * c + 10 * d <= 15
+
+status = prob.solve()  # solve using the default solver, which is cbc
+print(pl.LpStatus[status])  # print the human-readable status
+
+# print the values
+print("a", pl.value(a))
+print("b", pl.value(b))
+print("c", pl.value(c))
+print("d", pl.value(d))
+
+Result - Optimal solution found
+
+""" Objective value:                17.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.02
+Time (Wallclock seconds):       0.03
+
+Option for printingOptions changed from normal to all
+Total time (CPU seconds):       0.04   (Wallclock seconds):       0.04
+
+Optimal
+a 0.0
+b 1.0 Mysterious figurine
+c 0.0
+d 1.0 French horn """
