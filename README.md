@@ -12,13 +12,13 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 - 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier tous les jours et retranscrit des formules en python dans ce dépot GITHUB dès que possible, triées par chapitres. Cette année c'est :
 
--- Mastering Python for Finance by James Ma Weiming : Livre En anglais, super bien écrit, avec les scripts de la frontière efficace  (efficiente), du Python Pulp, etc ..
+Mastering Python for Finance by James Ma Weiming : Livre En anglais, super bien écrit, avec les scripts de la frontière efficace  (efficiente), du Python Pulp, etc ..
 
--- Dunod - Mini manuel de mathématiques financières: Il contient d'excellentes bases .( Je retranscrit les formules de Maths du livre en python dans mon chapitre 5)
+Dunod - Mini manuel de mathématiques financières: Il contient d'excellentes bases .( Je retranscrit les formules de Maths du livre en python dans mon chapitre 5)
 
--- J'essaye désormais aussi doucement "Exercices_problèmes_physique_MPSI_PCSI_PTSI" de Hachette du supérieur ( Qui récapitule bien par chapitres le programme MPSI) . Je fais aussi du niveau Collège et Lycée ...  .
+J'essaye désormais aussi doucement "Exercices_problèmes_physique_MPSI_PCSI_PTSI" de Hachette du supérieur ( Qui récapitule bien par chapitres le programme MPSI) . Je fais aussi du niveau Collège et Lycée ...  .
 
--- Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances en gestion de Portfolios(Portefeuille), Les probabilités en chaines de Markov et les solveurs linéaires en programmation linéaire ( Pour mon app : http://solvgraph.com)
+--> Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances en gestion de Portfolios(Portefeuille), Les probabilités en chaines de Markov et les solveurs linéaires en programmation linéaire ( Pour mon app : http://solvgraph.com)
 
 - 17-11-2020 - Excellent lien en Français ! : https://dridk.me/
 - 17-11-2020 - Lien difficile pour les équations différentielles, en Anglais: https://apmonitor.com/pdc/index.php/Main/PhysicsBasedModels
