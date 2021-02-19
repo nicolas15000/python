@@ -28,7 +28,7 @@ J'essaye désormais aussi doucement "Exercices_problèmes_physique_MPSI_PCSI_PT
 Ensuite, cliquer sur " Home " , "Jupiter Notebooks", et ouvrir ou créer un notebook...
 
 ## Pourquoi Anaconda n'est pas suffisant ?
-Parce qu'il faut créer des apps réelles en FULL stack puis tenter un busines model pour la vendre. Il faut donc également savoir programmer en Full Stack ( y compris du JS), en plus de faire de la Data science.
+Parce qu'il faut créer des apps réelles en FULL stack puis tenter un business model quelconque , pour la vendre. Il faut donc également savoir programmer en Full Stack ( y compris du JS), en plus de faire de la Data science. Voilà pourquoi j'ai aussi des fichiers *.py.
 
 ## Références de mes livres
 
