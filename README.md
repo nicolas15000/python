@@ -27,6 +27,9 @@ J'essaye désormais aussi doucement "Exercices_problèmes_physique_MPSI_PCSI_PT
 ![Screenshot](anacondanew.jpg)<br>
 Ensuite, cliquer sur " Home " , "Jupiter Notebooks", et ouvrir ou créer un notebook...
 
+## Datasets et Notebooks en Data Science à télécharger sur Kaggle (En Anglais .. Super bien)!
+https://www.kaggle.com/notebooks<br><br>
+
 ## Pourquoi créer des notebooks n'est pas suffisant ?
 Parce qu'il faut aussi savoir créer des apps réelles en Full stack, puis tenter un business model quelconque , pour la vendre. Il faut donc également savoir programmer en Full Stack ( y compris du JS), en plus de faire de la Data science. Voilà pourquoi j'ai aussi des fichiers .py que je peux placer sur un serveur Flask, sur Heroku par exemple. 
 
@@ -63,8 +66,7 @@ Parce qu'il faut aussi savoir créer des apps réelles en Full stack, puis tente
 - Le site d'un professeur de l'ENSAE: http://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx/td_2a.html#machine-learning-les-briques-de-bases<br>
 - Sacha Schutz : https://dridk.me/ et  https://dridk.me/equation-differentielle.html
 
-## Datasets et notebooks en Data Science à télécharger sur Kaggle (Anglais)!
-https://www.kaggle.com/notebooks<br><br>
+
 
 ## Infos : 
 <b>Les scripts possédant la lettre C au début de leur noms ont un statut confirmé.</b><br>
