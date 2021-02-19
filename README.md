@@ -25,14 +25,14 @@ J'essaye désormais aussi doucement "Exercices_problèmes_physique_MPSI_PCSI_PT
 
 
 
-## Notebooks et Datasets de Data Science à télécharger sur Kaggle (En Anglais)!
+## Notebooks de Data Science à télécharger sur Kaggle (En Anglais)!
 https://www.kaggle.com/notebooks<br><br>
 
-##  Modifier les notebooks Python avec Anaconda et Jupiter : 
+## Modifier les notebooks Python avec Anaconda et Jupiter : 
 ![Screenshot](anacondanew.jpg)<br>
 Ensuite, cliquer sur " Home " , "Jupiter Notebooks", et ouvrir ou créer un notebook...
 
-## Pourquoi créer des notebooks Python n'est pas suffisant ?
+## Pourquoi créer des notebooks Python n'est il pas suffisant ?
 Parce qu'il faut aussi savoir créer des apps réelles en Full stack, puis tenter un business model quelconque , pour la vendre. Il faut donc également savoir programmer en Full Stack ( y compris du JS), en plus de faire de la Data science. Voilà pourquoi j'ai aussi des fichiers .py que je peux placer sur un serveur Flask, sur Heroku par exemple. 
 
 ## Références de mes livres
