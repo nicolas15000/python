@@ -8,7 +8,7 @@
 Je stocke ici divers scripts de data science et de mathématiques descriptives ou prédictives en Python, en langue Française. Mes études sont principalement axées sur les solveurs linéaires, les régressions multiples, les lois de probabilité et les chaines de Markov. Un peu de finances aussi...<br>
 
 ## Dernières news du dépot : 
-- Création du chapitre "19. Notebooks de data science Kaggle traduits" 
+- Création du chapitre "19. Notebooks de data science Kaggle traduits en Français" 
 
 - 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier tous les jours et retranscrit des formules en python dans ce dépot GITHUB dès que possible, triées par chapitres. Cette année c'est :
 
