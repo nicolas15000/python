@@ -16,7 +16,7 @@ Mastering Python for Finance by James Ma Weiming : Livre En anglais, super bien 
 
 Dunod - Mini manuel de mathématiques financières: Il contient d'excellentes bases .( Je retranscrit les formules de Maths du livre en python dans mon chapitre 5)
 
-J'essaye désormais aussi doucement "Exercices_problèmes_physique_MPSI_PCSI_PTSI" de Hachette du supérieur ( Qui récapitule bien par chapitres le programme MPSI) . Je fais aussi du niveau Collège et Lycée ...  .
+
 
 --> Mon objectif est d'utiliser dans des apps concrêtes les formules de Finances en gestion de Portfolios(Portefeuille), Les probabilités en chaines de Markov et les solveurs linéaires en programmation linéaire ( Pour mon app : http://solvgraph.com)
 
