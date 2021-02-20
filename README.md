@@ -45,7 +45,7 @@ Maths :
 - "Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
 - Livres de Maths de révision de lycées ( 2nd, Séries L, éco, S et Stg et quelques uns de collège 3 ème).
 - "Mathématiques appliquées à la gestion" Pearson education ( + difficile)
-- www.cmaths.fr
+- https://www.cmath.fr/
 
 Statistiques : 
 - "Premiers pas en statistique" de Springer :Toutes les bases incontournables en stats : https://www.springer.com/gp/book/9782287302787
