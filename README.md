@@ -35,32 +35,45 @@ Ensuite, cliquer sur " Home " , "Jupiter Notebooks", et ouvrir ou créer un note
 ## Pourquoi créer des notebooks Python n'est il pas suffisant ?
 Parce qu'il faut aussi savoir créer des apps réelles en Full stack, puis tenter un business model quelconque , pour la vendre. Il faut donc également savoir programmer en Full Stack ( y compris du JS), en plus de faire de la Data science. Voilà pourquoi j'ai aussi des fichiers .py que je peux placer sur un serveur Flask, sur Heroku par exemple. 
 
-## Références de mes livres
+## Références 
 
-
+Maths : 
 - "Mathématiques L1 L2 - 30 fiches" Dunod
 - "Aide mémoire , Statistiques et probabilités pour l'ingénieur " Dunod
 - "Mathématiques pour l'informatique" ( Version bts sio, plus courte que la version compléte ) de Dunod
 - "Outils mathématiques pour l'informaticien, mathématiques discretes" De Boaeck
-- "Maxi fiches Physique , 2 ème édition - Mécanique , Thermodynamique, Electricité, ondes , optique pour L1 et L 2 " Dunod
-- "Logistique" de Dunod , Yves Pimor 
-- "Gestion de projet pour les nuls"
 - "Programmation linéaire avec Excel" https://www.eyrolles.com/Informatique/Livre/programmation-lineaire-avec-excel-9782212126594/
+- Livres de Maths de révision de lycées ( 2nd, Séries L éco S et Stg et quelques uns de collège 3 ème).
+- "Mathématiques appliquées à la gestion" Pearson education ( + difficile)
+- www.cmaths.fr
+
+Statistiques : 
 - "Premiers pas en statistique" de Springer :Toutes les bases incontournables en stats : https://www.springer.com/gp/book/9782287302787
-- "Exercices problèmes physique MPSI PCSI PTSI " de Hachette du supérieur
+
+Finances:
 - "Mastering Python for Finance" by James Ma Weiming
 - "Mini manuel de mathématiques financières" - Dunod
-- "Data science for dummies" : La data science pour les nuls, en anglais.
-- " Big Data et Machine Learning, Manuel du Data scientist " Dunod
-- " L'électronique de Poche pour les nuls"
-- " Talend for Big Data" Packt
-- " La comptabilité pour les nuls"
-- " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
-- " Apprendre le ML en 2 semaines" de la chaine youtube Machine Learnia
-- Livres de Maths de révision de lycées ( 2nd, 1ère s et stg, Ts, TEco et un de collège 3 ème).
-- "Tout en un fiches Maths Physique chimie Visa pour la prépa "Dunod 
-- "Mathématiques appliquées à la gestion" Pearson education ( + difficile)
 
+Data science et ML : 
+- " Big Data et Machine Learning, Manuel du Data scientist " Dunod
+- " Apprendre le ML en 2 semaines" de la chaine youtube Machine Learnia
+- "Data science for dummies" : La data science pour les nuls, en anglais.
+- 
+BI :
+- " Talend for Big Data" Packt
+
+Projets : 
+- "Logistique" de Dunod , Yves Pimor 
+- "Gestion de projet pour les nuls"
+
+Projet : 
+- Lean :  " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
+
+Divers :
+
+- "Maxi fiches Physique , 2 ème édition - Mécanique , Thermodynamique, Electricité, ondes , optique pour L1 et L 2 " Dunod
+- " L'électronique de Poche pour les nuls"
+- " La comptabilité pour les nuls"
 
 
 --> Professeurs, Phd doctorants, et liens en Français :
