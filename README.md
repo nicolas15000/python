@@ -58,14 +58,16 @@ Data science et ML :
 - " Big Data et Machine Learning, Manuel du Data scientist " Dunod
 - " Apprendre le ML en 2 semaines" de la chaine youtube Machine Learnia
 - " Data science for dummies" : La data science pour les nuls, en anglais.
+- " Introduction to machine learning with python" O reilly , en anglais
 - 
 BI :
 - " Talend for Big Data" Packt
 
 Projets : 
 - "Logistique" de Dunod , Yves Pimor"
-- - Lean :  " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
+- Lean :  " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
 - "Gestion de projet pour les nuls"
+- " La méthode Prince 2"
 
 
 Divers :
