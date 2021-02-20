@@ -47,6 +47,9 @@ Maths :
 - "Mathématiques appliquées à la gestion" Pearson education ( + difficile)
 - https://www.cmath.fr/
 
+Général :
+- " Visa pour la prépa " de DUNOD
+
 Statistiques : 
 - "Premiers pas en statistique" de Springer :Toutes les bases incontournables en stats : https://www.springer.com/gp/book/9782287302787
 
