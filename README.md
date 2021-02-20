@@ -57,20 +57,18 @@ Finances:
 Data science et ML : 
 - " Big Data et Machine Learning, Manuel du Data scientist " Dunod
 - " Apprendre le ML en 2 semaines" de la chaine youtube Machine Learnia
-- "Data science for dummies" : La data science pour les nuls, en anglais.
+- " Data science for dummies" : La data science pour les nuls, en anglais.
 - 
 BI :
 - " Talend for Big Data" Packt
 
 Projets : 
-- "Logistique" de Dunod , Yves Pimor 
+- "Logistique" de Dunod , Yves Pimor"
+- - Lean :  " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
 - "Gestion de projet pour les nuls"
 
-Projet : 
-- Lean :  " Toyota Supply Chain Management A Strategic Approach to Toyotas Renowned System" by Ananth Iyer, Sridhar Seshadri, Roy Vasher
 
 Divers :
-
 - "Maxi fiches Physique , 2 ème édition - Mécanique , Thermodynamique, Electricité, ondes , optique pour L1 et L 2 " Dunod
 - " L'électronique de Poche pour les nuls"
 - " La comptabilité pour les nuls"
