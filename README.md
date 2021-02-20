@@ -35,7 +35,7 @@ Ensuite, cliquer sur " Home " , "Jupiter Notebooks", et ouvrir ou créer un note
 ## Pourquoi créer des notebooks Python n'est il pas suffisant ?
 Parce qu'il faut aussi savoir créer des apps réelles en Full stack, puis tenter un business model quelconque , pour la vendre. Il faut donc également savoir programmer en Full Stack ( y compris du JS), en plus de faire de la Data science. Voilà pourquoi j'ai aussi des fichiers .py que je peux placer sur un serveur Flask, sur Heroku par exemple. 
 
-## Références 
+## Références (Livres)
 
 Maths : 
 - "Mathématiques L1 L2 - 30 fiches" Dunod
