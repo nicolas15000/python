@@ -9,7 +9,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 ## Dernières news du dépot : 
 
-- 30-04-2021 : Ajout du répertoire de la théorie des files d'attente.
+- 30-04-2021 : Ajout du répertoire de la théorie des files d'attente. Découverte du site de cours de mathématiques de université Lille L1 L2 et L3 : http://exo7.emath.fr/index.html
 
 - 19-02-2021 : Création du chapitre "19. Notebooks de Data Science Kaggle, traduits en Français" , avec des stats simples, mais aussi, du Keras et du Tensorflow (Machine Learning), pour l'analyse de photos ( Exemple : détection de cancers)...
 
