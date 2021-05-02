@@ -13,7 +13,7 @@ Je stocke ici divers scripts de data science et de mathématiques descriptives o
 
 - 19-02-2021 : Création du chapitre "19. Notebooks de Data Science Kaggle, traduits en Français" , avec des stats simples, mais aussi, du Keras et du Tensorflow (Machine Learning), pour l'analyse de photos ( Exemple : détection de cancers)...
 
-- 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier tous les jours et retranscrit des formules en python dans ce dépot GITHUB dès que possible, triées par chapitres. Cette année c'est :
+- 10-02-2021 - J'ai désormais une tablette avec des tas de livres, et j'en prends 2 ou 3 à étudier seulement(Toujours les mêmes) et retranscrit des formules en python dans ce dépot GITHUB dès que possible, triées par chapitres. Cette année c'est :
 
 
 Introduction to machine learning de Andreas Muller ...chez O'reilly en Anglais : Super bien écrit et facile à comprendre.
