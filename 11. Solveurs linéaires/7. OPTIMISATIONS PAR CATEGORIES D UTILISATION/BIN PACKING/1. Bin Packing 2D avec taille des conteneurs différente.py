@@ -1,6 +1,8 @@
 # Source : 
 # https://stackoverflow.com/questions/42450533/bin-packing-python-query-with-variable-bin-cost-and-sizes
 
+ #https://www.py4u.net/discuss/203834
+
 from pulp import *
 
 items = [("a", 5), ("b", 6), ("c", 7)]
