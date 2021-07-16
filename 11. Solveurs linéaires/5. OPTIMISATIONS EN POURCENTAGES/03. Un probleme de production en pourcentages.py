@@ -145,7 +145,14 @@ pour le cout total : substituer les valeurs trouvées pour les vars de décision
  dans la function objectif et voir si c'est bon .
 
 On peut aussi substituer nos valeurs obtenues dans les contraintes exprimées en pourcents pour voir si 
-nos contraintes sont réellement respectées.
+nos contraintes sont réellement respectées:
+
+Par exemple la contrainte plomb 
+72*0.10 + 48*0.60  est il égal à 30 % de plomb soit 36 kgs dans notre cas ?
+On voit que ça fait 36 ! Miracle ! Donc notre 1ère contrainte est bien respectée, hourra !
+La puissance de calcul est DINGUE !
+
+
 """
 
 
