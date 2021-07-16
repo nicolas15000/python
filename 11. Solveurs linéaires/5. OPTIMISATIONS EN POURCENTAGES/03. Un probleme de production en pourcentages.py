@@ -138,7 +138,13 @@ afin de minimiser notre cout .
 
 
 Comment vérifier si c'est bon ? 
-On peut substituer nos valeurs obtenues dans les contraintes exprimées en pourcents pour voir si 
+
+Déjà, on voit que 72 + 48 = 120 , donc là, on est bon .
+
+pour le cout total : substituer les valeurs trouvées pour les vars de décision
+ dans la function objectif et voir si c'est bon .
+
+On peut aussi substituer nos valeurs obtenues dans les contraintes exprimées en pourcents pour voir si 
 nos contraintes sont réellement respectées.
 """
 
