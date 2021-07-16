@@ -33,9 +33,10 @@ Formuler ce problème sous forme de programme linéaire.
 # Et le comme le nb de variables de décision est forcément de neuf donc de x1 ... à x9
 # min (ci * xi)
 
-# sous les contraintes  (30% = 0.30 de plomb, et 120 , c'est les 120 kgs nécessaires) ,
+# Sous les contraintes  (30% = 0.30 de plomb, et 120 , c'est les 120 kgs nécessaires) ,
 # Cette contrainte comprends donc une valeur de type "pourcentage" et une valeur de type "unitaire" mixée ensemble 
-# tout simplement, 30% de 120kgs, peut aussi s'écrire 0.30 * 120 afin d'éliminer la fraction (niveau CM2 - école primaire)
+# tout simplement, 30% de 120kgs, peut aussi s'écrire 0.30 * 120 afin d'éliminer la fraction pour simplifier le programme linéaire (niveau CM2 - école primaire)
+# On le vérifie car 30 * 120 / 100 = 36 , et 0.30 * 120 = 36 , c'est PAREIL
 # et donc 0.30 * 120 veut dire qu'on veut absolument que 30% du total de notre mélange soit du plomb: 
 # Σ (pi * xi) = 0.30 * 120 
 
