@@ -7,11 +7,11 @@ Code PULP Réalisé par Nicolas Estel HULEUX
 Un fabricant doit produire 120 kg d’un alliage comportant 30 % de plomb, 30 % de zinc et 40 % d’´etain.
 Sur le marché, on trouve les alliages suivants :
 
-alliage     1       2   3   4   5   6   7   8   9
-% plomb     10      10  40  60  30  30  30  50  20
-% zinc      10      30  50  30  30  40  20  40  30
-% étain     80      60  10  10  40  30  50  10  50
-coût/kg     4.1     4.3 5.8 6.0 7.6 7.5 7.3 6.9 7.3
+alliage     1   2   3   4   5   6   7   8   9
+% plomb     10  10  40  60  30  30  30  50  20
+% zinc      10  30  50  30  30  40  20  40  30
+% étain     80  60  10  10  40  30  50  10  50
+coût/kg     4.1 4.3 5.8 6.0 7.6 7.5 7.3 6.9 7.3
 
 Comment obtenir un alliage de la composition voulue dont le cout est minimum ? 
 
@@ -68,7 +68,7 @@ prob = LpProblem("Production 120kgs",LpMinimize)
 
 # ON crée nos variables de décisions, il y en a 9
 # Ca veut dire qu'on doitchoisir quels sont les alliages les plus judicieux à choisir et on leur donne un nom à chacun
-# * le nombre de kg de l’alliage i utilisés.
+# C'est le nombre de kg de l’alliage i utilisés.
 # vu que la valeur du nombre de kgs peut être décimal, on spécifie que c'est une variable de décision de type décimale en écrivant Continuous:
 x1 = LpVariable("Alliage1", lowBound = 0,cat='Continuous')
 x2 = LpVariable("Alliage2", lowBound = 0,cat='Continuous')
