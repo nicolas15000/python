@@ -8,6 +8,7 @@ note :
 - Par contre, dans les functions, on transforme tout en décimal, et on indique la loi de conservation == 100
 
 Expérimental by Nicolas Estel HULEUX
+Avec pour exemple : https://rstudio-pubs-static.s3.amazonaws.com/274314_43b04185a4b84a0fb1113819d59b55c0.html
 Attention: Code non sur, à vérifier
 """
 
