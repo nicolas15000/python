@@ -139,11 +139,14 @@ afin de minimiser notre cout .
 
 Comment vérifier si c'est bon ? 
 
-Déjà, on voit que 72 + 48 = 120 , donc là, on est bon .
+Déjà, on voit que 72kgs + 48kgs = 120kgs , donc là, on est bon pour notre contrainte de poids exprimée en kgs.
 
+Vérification de la function objectif : 
 pour le cout total : substituer les valeurs trouvées pour les vars de décision
- dans la function objectif et voir si c'est bon .
+ dans la function objectif et voir si c'est bon, mais il n'est pas du genre à faire des erreurs de calcul à cet endroit lol , 
+ la question est : A-t-il vraiment minimisé ?.
 
+Vérification des contraintes :
 On peut aussi substituer nos valeurs obtenues dans les contraintes exprimées en pourcents pour voir si 
 nos contraintes sont réellement respectées:
 
