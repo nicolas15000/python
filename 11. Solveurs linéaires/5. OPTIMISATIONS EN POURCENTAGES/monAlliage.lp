@@ -6,7 +6,7 @@ Cout_total_des_ingrédients: 4.1 Alliage1 + 4.3 Alliage2 + 5.8 Alliage3
 Subject To
 etain: 0.8 Alliage1 + 0.6 Alliage2 + 0.1 Alliage3 + 0.1 Alliage4
  + 0.4 Alliage5 + 0.3 Alliage6 + 0.5 Alliage7 + 0.1 Alliage8 + 0.5 Alliage9
- = 36
+ = 48
 plomb: 0.1 Alliage1 + 0.1 Alliage2 + 0.4 Alliage3 + 0.6 Alliage4
  + 0.3 Alliage5 + 0.3 Alliage6 + 0.3 Alliage7 + 0.5 Alliage8 + 0.2 Alliage9
  = 36

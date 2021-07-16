@@ -99,7 +99,7 @@ prob += 0.10*x1 +  0.30*x2 +  0.50*x3 +   0.30*x4 +  0.30*x5 +  0.40*x6 +   0.20
 
 # Σ (ei * xi) = 0.40 * 120 
 # % étain     80  60  10  10  40  30  50  10  50
-prob += 0.80*x1 +  0.60*x2 +  0.10*x3 +   0.10*x4 +  0.40*x5 +  0.30*x6 +   0.50*x7 +  0.10*x8 + 0.50*x9 == 0.30 * 120 , "etain"
+prob += 0.80*x1 +  0.60*x2 +  0.10*x3 +   0.10*x4 +  0.40*x5 +  0.30*x6 +   0.50*x7 +  0.10*x8 + 0.50*x9 == 0.40 * 120 , "etain"
 
 
 """ note importante, si on écrit les contraintes sous la forme  : 
@@ -118,24 +118,28 @@ print("Total Cost of Ingredients  = ", value(prob.objective))
 
 
 """ 
-Status: Infeasible
+Status: Optimal
 Alliage1 = 0.0
-Alliage2 = 48.0
-Alliage3 = 60.0
-Alliage4 = 12.0
+Alliage2 = 72.0
+Alliage3 = 0.0
+Alliage4 = 48.0
 Alliage5 = 0.0
 Alliage6 = 0.0
 Alliage7 = 0.0
 Alliage8 = 0.0
 Alliage9 = 0.0
-Total Cost of Ingredients  =  626.4
+Total Cost of Ingredients  =  597.5999999999999
 
 Donc : Si ce premier essai est bon , ça voudrait dire qu'on doit acheter 
-48 kgs d'alliage 1
-60 kgs d'alliage 2 , et 12kgs d'alliage 4 pour obtenir nos 
-120 kgs d'alliage, sous contrainte de pourcentage de zinc, etain et  plomb exprimées en %
 
-Par contre, il nous mets "Infeasible', pourquoi ?
+72 kgs d'alliage 2 , et 48kgs d'alliage 4 pour obtenir nos 
+120 kgs d'alliage, sous contrainte de pourcentage de zinc, etain et  plomb exprimées en %
+afin de minimiser notre cout .
+
+
+Comment vérifier si c'est bon ? 
+On peut substituer nos valeurs obtenues dans les contraintes exprimées en pourcents pour voir si 
+nos contraintes sont réellement respectées.
 """
 
 
