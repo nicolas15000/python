@@ -2,6 +2,8 @@
 cf : Recherche opérationnelle pour ingénieurs I (de Werra, Liebling, Hˆeche) ; page 33
 documentation 5 en français sur nicolas15000 github
 
+Code PULP Réalisé par Nicolas Estel HULEUX
+
 Un fabricant doit produire 120 kg d’un alliage comportant 30 % de plomb, 30 % de zinc et 40 % d’´etain.
 Sur le marché, on trouve les alliages suivants :
 
@@ -67,7 +69,7 @@ prob = LpProblem("Production 120kgs",LpMinimize)
 # ON crée nos variables de décisions, il y en a 9
 # Ca veut dire qu'on doitchoisir quels sont les alliages les plus judicieux à choisir et on leur donne un nom à chacun
 # * le nombre de kg de l’alliage i utilisés.
-# vu que la valeur du nombre de kgs peut être décimal, on spécifie que c'est une variable décimale en écrivant Continuous:
+# vu que la valeur du nombre de kgs peut être décimal, on spécifie que c'est une variable de décision de type décimale en écrivant Continuous:
 x1 = LpVariable("Alliage1", lowBound = 0,cat='Continuous')
 x2 = LpVariable("Alliage2", lowBound = 0,cat='Continuous')
 x3 = LpVariable("Alliage3", lowBound = 0,cat='Continuous')
@@ -82,8 +84,7 @@ x9 = LpVariable("Alliage9", lowBound = 0,cat='Continuous')
 prob += 4.1*x1 + 4.3*x2 + 5.8*x3 + 6.0*x4 + 7.6*x5 + 7.5*x6 + 7.3*x7 + 6.9*x8 + 7.3*x9 , "Cout total des ingrédients"
 
 
-
-# On doit spécifier que le total de nos variables de décisions exprimée en kg doit être égal à 120 kgs absolument.
+# On doit spécifier que le total de nos variables de décisions exprimée en kg doit être égal à 120 kgs absolument, c'est donc logique, pas de pourcentages ici.
 prob += x1 +  x2 +  x3 +   x4 +  x5 +  x6 +   x7 +  x8 + x9 ==  120 , "total"
 
 
@@ -133,8 +134,9 @@ Total Cost of Ingredients  =  597.5999999999999
 Donc : Si ce premier essai est bon , ça voudrait dire qu'on doit acheter 
 
 72 kgs d'alliage 2 , et 48kgs d'alliage 4 pour obtenir nos 
-120 kgs d'alliage, sous contrainte de pourcentage de zinc, etain et  plomb exprimées en %
+120 kgs d'alliage, sous contrainte de pourcentage de zinc, etain et plomb exprimées en %
 afin de minimiser notre cout .
+Notre cout global de 120 kgs d'alliage sera donc de 597.59999 euros !
 
 
 Comment vérifier si c'est bon ? 
