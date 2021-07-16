@@ -103,9 +103,18 @@ prob += 0.10*x1 +  0.30*x2 +  0.50*x3 +   0.30*x4 +  0.30*x5 +  0.40*x6 +   0.20
 prob += 0.80*x1 +  0.60*x2 +  0.10*x3 +   0.10*x4 +  0.40*x5 +  0.30*x6 +   0.50*x7 +  0.10*x8 + 0.50*x9 == 0.40 * 120 , "etain"
 
 
-""" note importante, si on écrit les contraintes sous la forme  : 
+
+
+""" 
+note importante, si on écrit les contraintes sous la forme  : 
 prob += 10*x1 +  10*x2 +  40*x3 +   60*x4 +  30*x5 +  30*x6 +   30*x7 +  50*x8 + 20*x9 == 30 * 120 , "plomb"
-fonctionne aussi et donne le même résultat ! """
+fonctionne aussi et donne le même résultat !
+
+C'est à ce niveau que je trouve cela bizarre à gérer, donc certes on a un resultat plausible, mais
+Je trouve ce mix de pourcentages étrange, il faut donc trouver des tas de programmes linéaires y compris excel
+et vérifier que cette méthode fonctionne réellement et que le résultat est correct.
+
+ """
 
 
 prob.writeLP("monAlliage.lp")
