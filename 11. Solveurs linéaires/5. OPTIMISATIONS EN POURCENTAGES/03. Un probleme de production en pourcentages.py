@@ -67,7 +67,7 @@ prob = LpProblem("Production 120kgs",LpMinimize)
 # ON crée nos variables de décisions, il y en a 9
 # Ca veut dire qu'on doitchoisir quels sont les alliages les plus judicieux à choisir et on leur donne un nom à chacun
 # * le nombre de kg de l’alliage i utilisés.
-# vu que la valeur du nombre de kgs peut être décimal, on spécifie que c'est une variable décimale:
+# vu que la valeur du nombre de kgs peut être décimal, on spécifie que c'est une variable décimale en écrivant Continuous:
 x1 = LpVariable("Alliage1", lowBound = 0,cat='Continuous')
 x2 = LpVariable("Alliage2", lowBound = 0,cat='Continuous')
 x3 = LpVariable("Alliage3", lowBound = 0,cat='Continuous')
@@ -80,6 +80,11 @@ x9 = LpVariable("Alliage9", lowBound = 0,cat='Continuous')
 
 # min (ci * xi) ou xi est exprimé en décimales de kgs et ci est exprimé en euros
 prob += 4.1*x1 + 4.3*x2 + 5.8*x3 + 6.0*x4 + 7.6*x5 + 7.5*x6 + 7.3*x7 + 6.9*x8 + 7.3*x9 , "Cout total des ingrédients"
+
+
+
+# On doit spécifier que le total de nos variables de décisions exprimée en kg doit être égal à 120 kgs absolument.
+prob += x1 +  x2 +  x3 +   x4 +  x5 +  x6 +   x7 +  x8 + x9 ==  120 , "total"
 
 
 # Σ (pi * xi) = 0.30 * 120 
@@ -113,15 +118,24 @@ print("Total Cost of Ingredients  = ", value(prob.objective))
 
 
 """ 
+Status: Infeasible
 Alliage1 = 0.0
-Alliage2 = 50.4
-Alliage3 = 18.0
-Alliage4 = 39.6
+Alliage2 = 48.0
+Alliage3 = 60.0
+Alliage4 = 12.0
 Alliage5 = 0.0
 Alliage6 = 0.0
 Alliage7 = 0.0
 Alliage8 = 0.0
 Alliage9 = 0.0
-Total Cost of Ingredients  =  558.72 """
+Total Cost of Ingredients  =  626.4
+
+Donc : Si ce premier essai est bon , ça voudrait dire qu'on doit acheter 
+48 kgs d'alliage 1
+60 kgs d'alliage 2 , et 12kgs d'alliage 4 pour obtenir nos 
+120 kgs d'alliage, sous contrainte de pourcentage de zinc, etain et  plomb exprimées en %
+
+Par contre, il nous mets "Infeasible', pourquoi ?
+"""
 
 
