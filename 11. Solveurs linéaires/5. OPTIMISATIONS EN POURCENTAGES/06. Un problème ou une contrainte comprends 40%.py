@@ -23,4 +23,11 @@ En raison de la demande, la production hebdomadaire de câble de 5 mm est limit�
 
 Les câbles sont respectivement vendus 50 et 200 euros le mètre.
 
-Que doit produire l'entreprise pour maximiser ses revenu? """
+Que doit produire l'entreprise pour maximiser ses revenu? 
+
+
+
+
+
+
+"""
